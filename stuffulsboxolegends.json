@@ -13,7 +13,7 @@
   "badge_text_colour": "FFFFFF",
   "display_name": "Stufful's",
   "dependencies": [
-    "Steamodded (>=1.0.0~BETA-1814a,)",
+    "Steamodded (>=1.0.0~BETA-1814a)",
     "Cryptid(>=0.5.16a)"
   ]
 }
