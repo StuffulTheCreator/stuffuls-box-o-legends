@@ -1,0 +1,19 @@
+{
+  "id": "stuffulsboxolegends",
+  "name": "Stufful's Box O' Legends",
+  "author": [
+    "StuffulEnjoyer"
+  ],
+  "description": "This is a mod that adds Legendary jokers that are either OCs or characters from other media I'm into. Requires Cryptid. Generally balanced around the power level of Cryptid. Also adds supporting mechanics, such as a couple of new seals. Also, this is my first time actually making any sort of pixel art. I hope they look good. Also, I did not make the backsides, I used a template from the Balatro Discord\nDone in Jokerforge.",
+  "prefix": "stuffuls",
+  "main_file": "main.lua",
+  "version": "1.0.1",
+  "priority": 0,
+  "badge_colour": "6a329f",
+  "badge_text_colour": "FFFFFF",
+  "display_name": "Stufful's",
+  "dependencies": [
+    "Steamodded (>=1.0.0~BETA-0827c)",
+    "Cryptid(>=0.5.12a)"
+  ]
+}
